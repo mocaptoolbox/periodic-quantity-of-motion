@@ -1,4 +1,4 @@
-# periodic-quantity-of-motion
+# Periodic quantity of motion
 Periodic quantity of motion estimation
 
 By Rodrigo Schramm & Federico Visi. You need MoCap Toolbox to run the functions. See the Manual and the function help how to use it.
